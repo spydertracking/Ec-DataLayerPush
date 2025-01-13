@@ -1,0 +1,5 @@
+homepage: "https://spyder.com.tw"
+documentation: "https://github.com/spydertracking/Ec-DataLayerPush/"
+versions:
+  - sha: a32f755a7b375663c2a83983a05096f33830bc63
+    changeNotes: 首次發佈
