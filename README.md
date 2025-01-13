@@ -1,4 +1,5 @@
-# 提供電子商務，DataLayer推送。
+## 提供電子商務，DataLayer推送。
+無需撰寫JS程式碼，可直接由GTM範本自動完成繁雜DataLayer推送至GTM。
 
 ## 使用步驟
 將tpl下載下來，或直接至GTM的範本頁面搜尋 - 電子商務事件推送 - Ec DlV 
