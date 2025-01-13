@@ -1,5 +1,5 @@
-homepage: "https://spyder.com.tw"
-documentation: "https://github.com/spydertracking/Ec-DataLayerPush/"
+homepage: "https://github.com/spydertracking/Ec-DataLayerPush/"
+documentation: "https://github.com/spydertracking/Ec-DataLayerPush/blob/main/README.md"
 versions:
   - sha: df380021e96049db2470cb008ac398b505eff49e
     changeNotes: 新增yaml, License
